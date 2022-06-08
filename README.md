@@ -1,7 +1,5 @@
 ### Welcome
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?Seyfaro&style=flat-square&color=blue" alt=""/>
- </div>
+![](https://komarev.com/ghpvc/?username=Seyfaro&color=blue)
 
 
 
