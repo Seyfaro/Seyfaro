@@ -1,9 +1,9 @@
 ### Welcome to my GitHub!
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align ="center">
+<div id="badges">
      <img src="https://komarev.com/ghpvc/?username=Seyfaro&color=blue"/>
 </div>
 
